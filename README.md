@@ -7,7 +7,7 @@ Service for checking in on the employer's website (Microsoft SharePoint)
 You need:
 
 * Python 3.9+
-* Selemium
+* Selenium
 * Browser Google Chrome
 * WebDriver for an installed browser
 
