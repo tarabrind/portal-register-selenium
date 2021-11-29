@@ -1,6 +1,4 @@
-# The employer's website check in
-
-Service for checking in on the employer's website (Microsoft SharePoint)
+# Service for checking in on the employer's website (Microsoft SharePoint)
 
 ## Usage
 
