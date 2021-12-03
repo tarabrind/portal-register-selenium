@@ -1,3 +1,4 @@
+import random
 import time
 
 from selenium import webdriver
@@ -6,6 +7,8 @@ from selenium.webdriver.chrome.service import Service
 
 import config
 
+
+time.sleep(random.randrange(300))
 
 service = Service("/var/local/chromedriver")
 
