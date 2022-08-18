@@ -1,4 +1,4 @@
-# Service for checking in on the employer's website
+# Service for checking in on my employer's website
 
 ...for Microsoft SharePoint
 
